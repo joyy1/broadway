@@ -6,7 +6,7 @@ body{
 }
 
 .header{
-  background-image: url(./broadway/resources/the-flatiron-building.png);
+  background-image: url(./resources/the-flatiron-building.png);
   text-align: center;
   color: white
 }
@@ -16,7 +16,25 @@ h1{
   font-weight: bold;
   }
 
-.bd-nav{
+.nav{
   font-size: 18px;
   color: white;
+}
+
+.div but{
+  background-image: url(./resources/the-flatiron-building.png);
+  height: 1.0;
+  width: inherit;
+
+}
+
+.footer{
+  background-color: dimgray;
+  
+  font-size: 11px
+  color: white;
+}
+
+div{
+  display: block;
 }
