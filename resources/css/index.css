@@ -52,7 +52,8 @@ p{
 
 .but{
   background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
-
+  height: 0.8;
+  width: cover;
 }
 
 .footer{
