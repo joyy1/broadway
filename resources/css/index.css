@@ -24,6 +24,7 @@ h1{
 h2{
   font-size: 32px;
   font-weight: bold;
+  color: white;
 
 }
 
@@ -52,7 +53,7 @@ p{
 
 .but{
   background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
-  height: 0.8;
+  height: 10px;
   width: cover;
 }
 
@@ -60,4 +61,5 @@ p{
   background-color: dimgray;
   font-size: 11px
   color: white;
+  text-align: left;
 }
